@@ -1,0 +1,119 @@
+.cont1 {
+    background-image: url(images/d1.jpg);
+    width: 100%;
+    height: 800px;
+}
+
+.nav {
+    background-color: black;
+}
+
+.bgorange {
+    background-color: #c9ab81;
+}
+
+.orange {
+    color: #c9ab81;
+}
+
+.hs {
+    font-size: 64px;
+}
+
+.mar {
+    margin-top: 200px;
+}
+
+.posa {
+    position: absolute;
+}
+
+.posr {
+    position: relative;
+    bottom: 85px;
+    left: 150px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.bgclr {
+    background-color: rgb(10, 10, 10);
+    width: 100%;
+    height: 950px;
+}
+
+.mar1 {
+    margin-top: 150px;
+}
+
+.mar2 {
+    margin-top: 180px;
+}
+
+.mar3 {
+    margin-top: 200px;
+}
+
+.mar4 {
+    margin-top: 30px;
+}
+
+.bgclr1 {
+    background-color: black;
+    width: 100%;
+    height: 850px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    color: #c9ab81;
+    border-radius: 50%;
+    background-color: rgb(30, 30, 30);
+    padding: 20px;
+    margin-left: 60px;
+}
+
+.brdr {
+    border-bottom: 2px dashed darkgray;
+}
+
+.mar5 {
+    /* margin-left: 140px; */
+}
+
+.square {
+    width: 350px;
+    height: 350px;
+    background-color: black;
+    position: relative;
+    top: 200px;
+    /* right: 20px; */
+}
+
+.mar6 {
+    margin-top: 120px;
+}
+.app{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(20, 20, 20);
+    margin-top: 100px;
+}
+.hss{
+        font-size: 32px;
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+}
+.pad{
+    padding-bottom: 100px;
+}
+.hsss{
+    font-size: 32px;
+}
+.logo{
+    width: 100%;
+    height: 220px;
+    background-color: black;
+}
